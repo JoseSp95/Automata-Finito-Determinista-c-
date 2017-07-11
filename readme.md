@@ -1,4 +1,4 @@
 ## Automata
 ```
-Holi
+Ingresa el cada dato del automata determinista por consola
 ```
